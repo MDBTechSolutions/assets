@@ -1,0 +1,2 @@
+Gray code = bac2c8
+Blue code = 24a3de
